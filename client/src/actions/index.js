@@ -17,13 +17,6 @@ export const signOut = () => {
   };
 };
 
-export const daleMae = () => {
-  return {
-    type:'shit'
-  };
-};
-
-
 export const createStream = formValues => async dispatch => {
   streams.post('/streams', formValues);
 }; 

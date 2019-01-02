@@ -219,6 +219,11 @@
       "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
       "a.dispatch.apply(a,arguments)}": "",
       "id": 45
+    },
+    {
+      "function(){return!window.__REDUX_DEVTOOLS_EXTENSION_LOCKED__": "",
+      "a.dispatch.apply(a,arguments)}": "",
+      "id": 46
     }
   ]
 }
